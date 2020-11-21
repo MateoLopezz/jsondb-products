@@ -1,0 +1,10 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "name": "queso cheddar",
+        "img": "asdklfjas.jpg",
+        "price": "$2.21"
+      }
+    ]
+}
