@@ -1,10 +1,22 @@
 {
-    "posts": [
+    "products": [
       {
         "id": 1,
         "name": "queso cheddar",
-        "img": "asdklfjas.jpg",
+        "img": "asdss.jpg",
         "price": "$2.21"
+      },
+        {
+        "id": 2,
+        "name": "manteca",
+        "img": "agjas.jpg",
+        "price": "$4.21"
+      },
+        {
+        "id": 3,
+        "name": "azucar",
+        "img": "asggggs.jpg",
+        "price": "$5.21"
       }
     ]
 }
